@@ -12,7 +12,7 @@ import java.net.Socket;
 
 /**
  *
- * @author mati_
+ * @author Manuel_Gonzalez-Matias_Parra
  */
 public class Cliente {
 
